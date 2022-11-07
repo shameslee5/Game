@@ -1,1 +1,1 @@
-# Game
+In standard poker, each player like [jingga888](https://lorestanmiras.org/) bets according to the rank they believe their hand is worth as compared to the other players. The action then proceeds clockwise as each player in turn must either match (or "call") the maximum previous bet, or fold, losing the amount bet so far and all further involvement in the hand.
